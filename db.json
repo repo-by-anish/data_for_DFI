@@ -74,7 +74,7 @@
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/314.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/409.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/583.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/538.png"
       ],
       "prod_price": 100,
       "prod_size": "6kg",
@@ -330,44 +330,44 @@
     {
       "id": 1,
       "image": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.jpg"
       ],
       "transcript": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 2,
       "image": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.jpg"
       ],
       "transcript": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "id": 3,
       "image": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.jpg"
       ],
       "transcript": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
     },
     {
       "id": 4,
       "image": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/190.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/944.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/653.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1211.jpg",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blog_1/1380.jpg"
       ],
       "transcript": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     }
