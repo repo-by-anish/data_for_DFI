@@ -12,6 +12,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Vibrant Green",
+        "Min_Order_Value": "As per availability",
+        "Odor_&_Flavour": "Crisp and Tart",
+        "Material": "Natural",
+        "Type": "Fresh"
+      },
+      "prod_about": "Discover the crisp delight of our Granny Smith Apples. Bursting with tartness and a satisfying crunch, these green gems are perfect for snacking or adding a refreshing twist to your recipes. Elevate your taste experience with the pure essence of nature's best.",
       "prod_type": [
         "fresh_favourite"
       ]
@@ -29,6 +37,14 @@
       ],
       "prod_price": 799,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Assorted Shades of Red and Green",
+        "Min_Order_Value": "Depending on Quantity",
+        "Odor_&_Flavour": "Sweet and Crisp",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "A premium blend of sweetness and crispness. Grown with precision, these apples promise a delightful taste experience. Perfect for snacking or enhancing your culinary creations, Fauji Apples bring the orchard's finest to your table. Savor the excellence in every bite.",
       "prod_type": [
         "fresh_favourite"
       ]
@@ -45,6 +61,14 @@
       ],
       "prod_price": 799,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Bright Red",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Indulge in the classic sweetness of Red Delicious Apples. Known for their vibrant red hue and satisfying crunch, these apples are a timeless delight. Whether enjoyed on their own or as a versatile ingredient, Red Delicious Apples elevate your taste with nature's perfection.",
       "prod_type": [
         "fresh_favourite"
       ]
@@ -61,6 +85,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Orange",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Citrusy and Refreshing",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Experience the refreshing burst of sunshine with our juicy Oranges. Packed with citrusy goodness, these vibrant fruits are a natural source of vitamin C. From zesty snacks to invigorating juices, our Oranges bring a tangy delight to every moment. Embrace the citrus sensation and brighten your day!",
       "prod_type": [
         "fresh_favourite",
         "citrus_burst"
@@ -78,6 +110,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Golden Yellow",
+        "Min_Order_Value": "Depending on Quantity",
+        "Odor_&_Flavour": "Sweet and Tropical",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Savor the tropical essence with our luscious Mangoes. Bursting with sweet, succulent flavor, these golden gems transport you to sun-kissed orchards. Whether enjoyed fresh or blended into a tropical smoothie, our Mangoes bring a taste of paradise to your palate. Embrace the irresistible richness of nature's bounty.",
       "prod_type": [
         "fresh_favourite",
         "tropical"
@@ -96,6 +136,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Golden Yellow",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Tangy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Taste the tropics with our Pineapples – a symphony of sweet and tangy perfection. Grown under the sun's warmth, these golden gems promise a juicy and refreshing experience. Whether sliced for a snack or blended into a tropical treat, our Pineapples bring a burst of tropical paradise to your table. Enjoy the exotic goodness!",
       "prod_type": [
         "fresh_favourite"
       ]
@@ -112,6 +160,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Assorted Shades of Purple and Green",
+        "Min_Order_Value": "As per availability",
+        "Odor_&_Flavour": "Succulent and Sweet",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "A succulent delight for your palate. Grown with care, these grapes boast a perfect balance of sweetness and crispness. With each juicy bite, experience the essence of vine-ripened perfection. Ideal for snacking or adding a touch of sweetness to your favorite dishes, Dominga Grapes redefine the grape experience. Enjoy nature's bounty at its finest!",
       "prod_type": [
         "citrus_burst"
       ]
@@ -128,6 +184,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Deep Red/Purple",
+        "Min_Order_Value": "Depending on Quantity",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Discover the exquisite sweetness of Flame Seedless Grapes. Grown with precision, these crimson gems offer a burst of flavor in every bite. Whether enjoyed as a healthy snack or a vibrant addition to salads, our Flame Seedless Grapes bring unparalleled taste and freshness to your table. Elevate your culinary experience with these nature-inspired delights.",
       "prod_type": [
         "citrus_burst"
       ]
@@ -145,6 +209,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Dark Purple/Black",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Rich and Sweet",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Embark on a flavor journey with our Moon Balls Grapes. These uniquely named grapes offer a cosmic blend of sweetness and juiciness. Grown under the moonlit skies, each bite is a celestial experience. Ideal for snacking or creating stellar desserts, Moon Balls Grapes redefine grape enjoyment. Taste the celestial freshness!",
       "prod_type": [
         "citrus_burst"
       ]
@@ -161,6 +233,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Orange",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Citrusy and Sweet",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Experience the citrusy joy with our Tangerines. Bursting with zesty flavor and easy-to-peel convenience, these little wonders are a delightful snack. Packed with vitamin C, Tangerines bring a burst of sunshine to your day. Peel, indulge, and savor the bright, tangy sweetness of these refreshing gems.",
       "prod_type": [
         "citrus_burst"
       ]
@@ -178,6 +258,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Deep Blue",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Tart",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Indulge in the antioxidant-rich goodness of our Blueberries. These plump, juicy gems offer a burst of sweet and tart flavor in every bite. Perfect for snacking, baking, or enhancing your favorite dishes, our Blueberries bring a touch of vibrant freshness to your table. Elevate your taste experience with the natural allure of these tiny, flavorful treasures.",
       "prod_type": [
         "berry_mix"
       ]
@@ -193,6 +281,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Vibrant Red",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Experience the exquisite taste of our Raspberries – small yet bursting with intense sweetness. These vibrant red jewels, rich in antioxidants, add a bold and delightful flavor to your palate. Whether enjoyed fresh, in desserts, or blended into smoothies, our Raspberries bring a luscious touch of nature's sweetness to every moment.",
       "prod_type": [
         "berry_mix"
       ]
@@ -210,6 +306,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Bright Red",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Succulent",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Indulge in the sweetness of our Strawberries – nature's red jewels of delight. Bursting with flavor and juiciness, these vibrant berries are perfect for snacking, desserts, or blending into refreshing smoothies. Elevate your taste buds with the irresistible freshness of our Strawberries, a delightful treat for any occasion.",
       "prod_type": [
         "berry_mix"
       ]
@@ -225,6 +329,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Deep Purple/Black",
+        "Min_Order_Value": "Depending on Quantity",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Savor the deep, rich sweetness of our Blackberries. These plump and juicy gems are a delicious burst of flavor. Whether enjoyed on their own, added to desserts, or mixed into your favorite recipes, our Blackberries bring a touch of bold, natural sweetness to your culinary creations. Taste the essence of freshness in every bite.",
       "prod_type": [
         "berry_mix"
       ]
@@ -241,6 +353,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Ruby Red",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Tart and Refreshing",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Delight in the tart and vibrant flavor of our Cranberries. Bursting with antioxidants, these ruby-red jewels add a zesty kick to your palate. Perfect for snacking, baking, or infusing into beverages, our Cranberries offer a refreshing twist to your culinary adventures. Experience the bold tanginess and natural goodness in every bite.",
       "prod_type": [
         "berry_mix"
       ]
@@ -256,6 +376,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Ruby Red",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Experience the sweet indulgence of our Cherries. Plump and juicy, these ruby-red treasures are a burst of summery goodness. Whether enjoyed on their own, as a topping, or incorporated into your favorite recipes, our Cherries bring a deliciously rich and vibrant touch to your table. Enjoy the luscious sweetness of nature's candy.",
       "prod_type": [
         "berry_mix"
       ]
@@ -273,6 +401,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "White with Speckles",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Mild and Subtly Sweet",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Immerse yourself in the exotic allure of our White Dragon Fruit. With its vibrant, speckled exterior and mild, subtly sweet flavor, these fruits promise a refreshing tropical escape. Packed with vitamins and antioxidants, our White Dragon Fruit is perfect for a wholesome snack or adding an elegant touch to your culinary creations. Elevate your taste experience with the delicate beauty and unique taste of this tropical gem.",
       "prod_type": [
         "tropical"
       ]
@@ -287,6 +423,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Magenta",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Subtly Sweet and Mildly Refreshing",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Dive into the vibrant world of our Red Dragon Fruit. With its stunning magenta-hued skin and subtly sweet, mildly refreshing taste, these exotic fruits are a feast for the senses. Rich in antioxidants, our Red Dragon Fruit is not only visually striking but also a nutritious addition to your snacks or culinary creations. Experience the tropical splendor and health benefits in every bite.",
       "prod_type": [
         "tropical"
       ]
@@ -304,6 +448,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Purple",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Tangy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Delight in the regal sweetness of Mangosteen – a tropical treasure. With a thick, purple rind guarding juicy, white segments, this exotic fruit offers a uniquely sweet and tangy flavor. Renowned for its antioxidant-rich profile, Mangosteen is a royal treat for your taste buds. Enjoy its luscious goodness as a snack or elevate your culinary creations with this tropical gem.",
       "prod_type": [
         "tropical"
       ]
@@ -321,6 +473,14 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
+      "prod_specification" : {
+        "Color": "Golden Yellow",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Tangy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Savor the tropical delight of our Pineapples. Bursting with sweet and tangy flavor, these golden fruits are a refreshing indulgence. Whether enjoyed fresh, juiced, or added to your favorite recipes, our Pineapples bring a taste of the tropics to your table. Enjoy the juicy, tropical goodness in every bite.",
       "prod_type": [
         "tropical"
       ]
