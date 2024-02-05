@@ -536,7 +536,7 @@
     "favicon": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/favicon.png",
     "logo": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/logo.png"
   },
-  "brand_product_assets": [
+  "brandProductAssets": [
     {
       "id": 1,
       "logo_url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/apple.png",
