@@ -12,7 +12,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Vibrant Green",
         "Min_Order_Value": "As per availability",
         "Odor_&_Flavour": "Crisp and Tart",
@@ -37,7 +37,7 @@
       ],
       "prod_price": 799,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Assorted Shades of Red and Green",
         "Min_Order_Value": "Depending on Quantity",
         "Odor_&_Flavour": "Sweet and Crisp",
@@ -61,7 +61,7 @@
       ],
       "prod_price": 799,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Bright Red",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Juicy",
@@ -85,7 +85,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Orange",
         "Min_Order_Value": "Variable",
         "Odor_&_Flavour": "Citrusy and Refreshing",
@@ -110,7 +110,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Golden Yellow",
         "Min_Order_Value": "Depending on Quantity",
         "Odor_&_Flavour": "Sweet and Tropical",
@@ -136,7 +136,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Golden Yellow",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Tangy",
@@ -160,7 +160,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Assorted Shades of Purple and Green",
         "Min_Order_Value": "As per availability",
         "Odor_&_Flavour": "Succulent and Sweet",
@@ -184,7 +184,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Deep Red/Purple",
         "Min_Order_Value": "Depending on Quantity",
         "Odor_&_Flavour": "Sweet and Juicy",
@@ -209,7 +209,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Dark Purple/Black",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Rich and Sweet",
@@ -233,7 +233,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Orange",
         "Min_Order_Value": "Variable",
         "Odor_&_Flavour": "Citrusy and Sweet",
@@ -258,7 +258,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Deep Blue",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Tart",
@@ -281,7 +281,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Vibrant Red",
         "Min_Order_Value": "Variable",
         "Odor_&_Flavour": "Sweet and Juicy",
@@ -306,7 +306,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Bright Red",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Succulent",
@@ -329,7 +329,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Deep Purple/Black",
         "Min_Order_Value": "Depending on Quantity",
         "Odor_&_Flavour": "Sweet and Juicy",
@@ -353,7 +353,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Ruby Red",
         "Min_Order_Value": "Variable",
         "Odor_&_Flavour": "Tart and Refreshing",
@@ -376,7 +376,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Ruby Red",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Juicy",
@@ -401,7 +401,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "White with Speckles",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Mild and Subtly Sweet",
@@ -423,7 +423,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Magenta",
         "Min_Order_Value": "Variable",
         "Odor_&_Flavour": "Subtly Sweet and Mildly Refreshing",
@@ -448,7 +448,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Purple",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Tangy",
@@ -473,7 +473,7 @@
       ],
       "prod_price": 100,
       "prod_size": "6kg",
-      "prod_specification" : {
+      "prod_specification": {
         "Color": "Golden Yellow",
         "Min_Order_Value": "Flexible",
         "Odor_&_Flavour": "Sweet and Tangy",
@@ -533,10 +533,10 @@
     }
   ],
   "brand-assets": {
-    "favicon":"https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/favicon.png",
-    "logo":"https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/logo.png"
+    "favicon": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/favicon.png",
+    "logo": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/logo.png"
   },
-  "brand-product-assets": [
+  "brand_product_assets": [
     {
       "id": 1,
       "logo_url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/apple.png",
