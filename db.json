@@ -531,5 +531,46 @@
       ],
       "transcript": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     }
+  ],
+  "brand-assets": {
+    "favicon":"https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/favicon.png",
+    "logo":"https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI/logo.png"
+  },
+  "brand-product-assets": [
+    {
+      "id": 1,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/apple.png",
+      "name": "DFI Apple"
+    },
+    {
+      "id": 2,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/cherry.webp",
+      "name": "DFI Cherry"
+    },
+    {
+      "id": 3,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/dragon.png",
+      "name": "DFI Dragon Fruit"
+    },
+    {
+      "id": 4,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/kiwi.png",
+      "name": "DFI Kiwi"
+    },
+    {
+      "id": 5,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/oranges.webp",
+      "name": "DFI Oranges"
+    },
+    {
+      "id": 6,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/pineapple.webp",
+      "name": "DFI Pineapple"
+    },
+    {
+      "id": 7,
+      "logo-url": "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@54ec005f3f8e00f0be656c3e57ae57c5c7428d0e/brandproductlogo/pomegranate.png",
+      "name": "DFI Pomegranate"
+    }
   ]
 }
