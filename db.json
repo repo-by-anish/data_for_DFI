@@ -223,10 +223,11 @@
       "prod_id": 219,
       "prod_name": "Pear",
       "prod_desc": "Juicy and sweet",
+      "prod_width": "50px",
       "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/red_anjou_pears/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/red_anjou_pears/379.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/red_anjou_pears/500.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/forelle_pears/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/forelle_pears/496.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/forelle_pears/691.png"
       ],
       "prod_price": 100,
       "prod_size": "6kg",
