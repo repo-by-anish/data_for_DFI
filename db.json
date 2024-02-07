@@ -3,7 +3,7 @@
     {
       "prod_id": 411,
       "prod_name": "Dragon Fruit(Red)",
-      "prod_desc": "Mild and slightly sweet",
+      "prod_desc": "Mild and slightly sweet.",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_red/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_red/500.png"
@@ -25,7 +25,7 @@
     {
       "prod_id": 111,
       "prod_name": "Fauji Apple",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and crisp",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/fauji_apples/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/fauji_apples/394.png",
@@ -97,7 +97,7 @@
     {
       "prod_id": 130,
       "prod_name": "Oranges",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Citrusy and refreshing",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/orange/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/orange/367.png",
@@ -122,7 +122,7 @@
     {
       "prod_id": 112,
       "prod_name": "Red Delicious Apple",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and juicy.",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/446.png",
@@ -198,7 +198,7 @@
     {
       "prod_id": 150,
       "prod_name": "Pineapple",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and tangy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/pine_apple/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/pine_apple/317.png",
@@ -222,7 +222,7 @@
     },
     {
       "prod_id": 220,
-      "prod_name": "Dominga Grapes",
+      "prod_name": "Succulent and sweet",
       "prod_desc": "Imported from country",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dominga_grapes/190.png",
@@ -295,7 +295,7 @@
     {
       "prod_id": 221,
       "prod_name": "Flame Seedless Grapes",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and juicy.",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/flame_seedless_grapes/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/flame_seedless_grapes/280.png",
@@ -319,7 +319,7 @@
     {
       "prod_id": 230,
       "prod_name": "Moon Balls Grapes",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Rich and sweet",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/moon_balls_grapes/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/moon_balls_grapes/530.png",
@@ -344,7 +344,7 @@
     {
       "prod_id": 240,
       "prod_name": "Tangerines",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Citrusy and sweet.",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/tangerines/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/tangerines/487.png",
@@ -368,7 +368,7 @@
     {
       "prod_id": 31,
       "prod_name": "Blueberry",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Tart",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blue_berry/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/blue_berry/500.png",
@@ -393,7 +393,7 @@
     {
       "prod_id": 32,
       "prod_name": "Raspberry",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Juicy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/raspberry/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/raspberry/366.png",
@@ -416,7 +416,7 @@
     {
       "prod_id": 33,
       "prod_name": "Strawberry",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Succulent",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/strawberry/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/strawberry/313.png",
@@ -441,7 +441,7 @@
     {
       "prod_id": 34,
       "prod_name": "Blackberry",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Juicy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/black_berry/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/black_berry/367.png",
@@ -464,7 +464,7 @@
     {
       "prod_id": 350,
       "prod_name": "Cranberry",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Tart and Refreshing",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/cranberry/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/cranberry/369.png",
@@ -511,7 +511,7 @@
     {
       "prod_id": 351,
       "prod_name": "Cherry",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Juicy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/cherry/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/cherry/484.png",
@@ -534,7 +534,7 @@
     {
       "prod_id": 43,
       "prod_name": "Mangosteen",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Tangy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mangosteen/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mangosteen/675.png",
@@ -559,7 +559,7 @@
     {
       "prod_id": 44,
       "prod_name": "Pineapple",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Tangy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/pine_apple/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/pine_apple/317.png",
@@ -584,7 +584,7 @@
     {
       "prod_id": 45,
       "prod_name": "Avocado",
-      "prod_desc": "Creamy and buttery",
+      "prod_desc": "Mild and Buttery",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/avocado/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/avocado/412.png",
@@ -607,7 +607,7 @@
     {
       "prod_id": 46,
       "prod_name": "Plum",
-      "prod_desc": "Sweet and juicy",
+      "prod_desc": "Sweet and Juicy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@9c61643ce0ece6c374d4f87d69f60790749748cf/plum/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@9c61643ce0ece6c374d4f87d69f60790749748cf/plum/288.png",
@@ -631,7 +631,7 @@
     {
       "prod_id": 110,
       "prod_name": "Granny Smith Apple",
-      "prod_desc": "Imported from country",
+      "prod_desc": "Sweet and Juicy",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/480.png",
