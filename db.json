@@ -1,27 +1,25 @@
 {
   "dummyData": [
     {
-      "prod_id": 110,
-      "prod_name": "Granny Smith Apple",
-      "prod_desc": "Imported from country",
+      "prod_id": 411,
+      "prod_name": "Dragon Fruit(Red)",
+      "prod_desc": "Mild and slightly sweet",
       "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/480.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/679.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/800.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_red/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_red/500.png"
       ],
       "prod_price": 100,
       "prod_size": "6kg",
       "prod_specification": {
-        "Color": "Vibrant Green",
-        "Min_Order_Value": "As per availability",
-        "Odor_&_Flavour": "Crisp and Tart",
-        "Material": "Natural",
+        "Color": "Magenta",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Subtly Sweet and Mildly Refreshing",
+        "Material": "Naturally Cultivated",
         "Type": "Fresh"
       },
-      "prod_about": "Discover the crisp delight of our Granny Smith Apples. Bursting with tartness and a satisfying crunch, these green gems are perfect for snacking or adding a refreshing twist to your recipes. Elevate your taste experience with the pure essence of nature's best.",
+      "prod_about": "Dive into the vibrant world of our Red Dragon Fruit. With its stunning magenta-hued skin and subtly sweet, mildly refreshing taste, these exotic fruits are a feast for the senses. Rich in antioxidants, our Red Dragon Fruit is not only visually striking but also a nutritious addition to your snacks or culinary creations. Experience the tropical splendor and health benefits in every bite.",
       "prod_type": [
-        "fresh_favourite"
+        "tropical"
       ]
     },
     {
@@ -51,26 +49,51 @@
     },
     {
       "prod_id": 112,
-      "prod_name": "Red Delicious Apple",
-      "prod_desc": "Imported from country",
+      "prod_name": "Kiwi",
+      "prod_desc": "Sweet and tangy",
       "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/446.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/628.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/768.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/hayward_kiwi/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/hayward_kiwi/415.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/hayward_kiwi/564.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/hayward_kiwi/693.png"
       ],
       "prod_price": 799,
       "prod_size": "6kg",
       "prod_specification": {
-        "Color": "Bright Red",
-        "Min_Order_Value": "Flexible",
-        "Odor_&_Flavour": "Sweet and Juicy",
-        "Material": "Naturally Cultivated",
+        "Color": "Brown",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Tangy",
+        "Material": "Naturally Grown",
         "Type": "Fresh"
       },
-      "prod_about": "Indulge in the classic sweetness of Red Delicious Apples. Known for their vibrant red hue and satisfying crunch, these apples are a timeless delight. Whether enjoyed on their own or as a versatile ingredient, Red Delicious Apples elevate your taste with nature's perfection.",
+      "prod_about": "Kiwi is native to eastern and central China. It is a small yet delicious fruit. There are about 60 odd species of kiwi. They vary in appearance, shape, size, color and hairiness. Its sweet and tangy flavor makes it everyones favorite.",
       "prod_type": [
-        "fresh_favourite"
+        "General_Fruit"
+      ]
+    },
+    {
+      "prod_id": 410,
+      "prod_name": "Dragon Fruit(White)",
+      "prod_desc": "Mild and slightly sweet",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/404.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/556.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/687.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/800.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "White with Speckles",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Mild and Subtly Sweet",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Immerse yourself in the exotic allure of our White Dragon Fruit. With its vibrant, speckled exterior and mild, subtly sweet flavor, these fruits promise a refreshing tropical escape. Packed with vitamins and antioxidants, our White Dragon Fruit is perfect for a wholesome snack or adding an elegant touch to your culinary creations. Elevate your taste experience with the delicate beauty and unique taste of this tropical gem.",
+      "prod_type": [
+        "tropical"
       ]
     },
     {
@@ -99,8 +122,32 @@
       ]
     },
     {
+      "prod_id": 112,
+      "prod_name": "Red Delicious Apple",
+      "prod_desc": "Imported from country",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/446.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/628.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/red_delicious_apple/768.png"
+      ],
+      "prod_price": 799,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Bright Red",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Cultivated",
+        "Type": "Fresh"
+      },
+      "prod_about": "Indulge in the classic sweetness of Red Delicious Apples. Known for their vibrant red hue and satisfying crunch, these apples are a timeless delight. Whether enjoyed on their own or as a versatile ingredient, Red Delicious Apples elevate your taste with nature's perfection.",
+      "prod_type": [
+        "fresh_favourite"
+      ]
+    },
+    {
       "prod_id": 140,
-      "prod_name": "Mango",
+      "prod_name": "Sweet and tropical",
       "prod_desc": "Imported from country",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/190.png",
@@ -170,6 +217,50 @@
       "prod_about": "A succulent delight for your palate. Grown with care, these grapes boast a perfect balance of sweetness and crispness. With each juicy bite, experience the essence of vine-ripened perfection. Ideal for snacking or adding a touch of sweetness to your favorite dishes, Dominga Grapes redefine the grape experience. Enjoy nature's bounty at its finest!",
       "prod_type": [
         "citrus_burst"
+      ]
+    },
+    {
+      "prod_id": 219,
+      "prod_name": "Pear",
+      "prod_desc": "Juicy and sweet",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/red_anjou_pears/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/red_anjou_pears/379.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/red_anjou_pears/500.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Yellow",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Juicy and Sweet",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about":"There are over 3000 varieties of pears found around the world, varying in taste, shape and color. One of the favorite fruits, pear is native to mildly temperate and coastal regions of Asia, North Africa and Europe.",
+      "prod_type": [
+        "fresh_favourite"
+      ]
+    },
+    {
+      "prod_id": 218,
+      "prod_name": "Longan",
+      "prod_desc": "Sweet and floral",
+      "prod_img": [
+        
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Brown",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Floral",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Logan is a tropical fruit that belongs to the same family as lychee and rambutan. It is native to Asia. It is believed to have originated from India, Sri Lanka, Myanmar, Thailand and China. It can be eaten raw or added in soups, desserts or can be dried.",
+      "prod_type": [
+        "fresh_favourite"
       ]
     },
     {
@@ -366,6 +457,52 @@
       ]
     },
     {
+      "prod_id": 352,
+      "prod_name": "Pomegranate",
+      "prod_desc": "Sweet and slightly tart",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/462.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/650.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Red",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Slightly Tart",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about":"pomegranate, (Punica granatum), bush or small tree of the family Lythraceae and its fruit. The juicy arils of the fruit are eaten fresh, and the juice is the source of grenadine syrup, used in flavourings and liqueurs.",
+      "prod_type": [
+        
+      ]
+    },
+    {
+      "prod_id": 351,
+      "prod_name": "Sweet Tamarind",
+      "prod_desc": "Sweet and tangy",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/tamarind/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/tamarind/556.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/tamarind/700.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Brown",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Tangy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Tamarind is a rich source of magnesium that is a crucial mineral for more than 500 body functions. The plant compounds and antioxidants present in the fruit can protect you against heart diseases and oxidative damage. Apart from its tangy flavor, the fruit contains iron, calcium, phosphorus, amino acids, vitamins and various other beneficial plant compounds. It is a rich source of antioxidants that provide anti-inflammatory properties.",
+      "prod_type": [
+        "citrus_burst"
+      ]
+    },
+    {
       "prod_id": 351,
       "prod_name": "Cherry",
       "prod_desc": "Imported from country",
@@ -386,53 +523,6 @@
       "prod_about": "Experience the sweet indulgence of our Cherries. Plump and juicy, these ruby-red treasures are a burst of summery goodness. Whether enjoyed on their own, as a topping, or incorporated into your favorite recipes, our Cherries bring a deliciously rich and vibrant touch to your table. Enjoy the luscious sweetness of nature's candy.",
       "prod_type": [
         "berry_mix"
-      ]
-    },
-    {
-      "prod_id": 410,
-      "prod_name": "Dragon Fruit(White)",
-      "prod_desc": "Imported from country",
-      "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/404.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/556.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/687.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/800.png"
-      ],
-      "prod_price": 100,
-      "prod_size": "6kg",
-      "prod_specification": {
-        "Color": "White with Speckles",
-        "Min_Order_Value": "Flexible",
-        "Odor_&_Flavour": "Mild and Subtly Sweet",
-        "Material": "Naturally Grown",
-        "Type": "Fresh"
-      },
-      "prod_about": "Immerse yourself in the exotic allure of our White Dragon Fruit. With its vibrant, speckled exterior and mild, subtly sweet flavor, these fruits promise a refreshing tropical escape. Packed with vitamins and antioxidants, our White Dragon Fruit is perfect for a wholesome snack or adding an elegant touch to your culinary creations. Elevate your taste experience with the delicate beauty and unique taste of this tropical gem.",
-      "prod_type": [
-        "tropical"
-      ]
-    },
-    {
-      "prod_id": 411,
-      "prod_name": "Dragon Fruit(Red)",
-      "prod_desc": "Imported from country",
-      "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_red/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_red/500.png"
-      ],
-      "prod_price": 100,
-      "prod_size": "6kg",
-      "prod_specification": {
-        "Color": "Magenta",
-        "Min_Order_Value": "Variable",
-        "Odor_&_Flavour": "Subtly Sweet and Mildly Refreshing",
-        "Material": "Naturally Cultivated",
-        "Type": "Fresh"
-      },
-      "prod_about": "Dive into the vibrant world of our Red Dragon Fruit. With its stunning magenta-hued skin and subtly sweet, mildly refreshing taste, these exotic fruits are a feast for the senses. Rich in antioxidants, our Red Dragon Fruit is not only visually striking but also a nutritious addition to your snacks or culinary creations. Experience the tropical splendor and health benefits in every bite.",
-      "prod_type": [
-        "tropical"
       ]
     },
     {
@@ -483,6 +573,74 @@
       "prod_about": "Savor the tropical delight of our Pineapples. Bursting with sweet and tangy flavor, these golden fruits are a refreshing indulgence. Whether enjoyed fresh, juiced, or added to your favorite recipes, our Pineapples bring a taste of the tropics to your table. Enjoy the juicy, tropical goodness in every bite.",
       "prod_type": [
         "tropical"
+      ]
+    },
+    {
+      "prod_id": 45,
+      "prod_name": "Avocado",
+      "prod_desc": "Creamy and buttery",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/avocado/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/avocado/412.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/avocado/570.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Green",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Mild and Buttery",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Avocados are loaded with fiber. Fiber content in food helps improve digestion and bowel movement.The fruit is rich in antioxidants that helps in improving immunity and improves your eyesight. It is incredibly nutritious. It contains a wide variety of nutrients and vitamins. It has over 20 nutrients such as vitamin K, E, C, B5, B6, potassium, folate, iron, zinc, and many more.",
+      "prod_type": [
+        "tropical"
+      ]
+    },
+    {
+      "prod_id": 46,
+      "prod_name": "Plum",
+      "prod_desc": "Sweet and juicy",
+      "prod_img": [
+        
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Purple",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Juicy",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about":"It reduces blood sugar levels. Plums are a good source of dietary fiber and they reduce adiponectin levels. Both properties benefit in reducing blood sugar levels in our body. Studies have shown that they are effective in reducing high blood pressure levels and cholesterol levels which are the major reasons for heart-related problems.",
+      "prod_type": [
+        "tropical"
+      ]
+    },
+    {
+      "prod_id": 110,
+      "prod_name": "Granny Smith Apple",
+      "prod_desc": "Imported from country",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/480.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/679.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/granny_smith_apple/800.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "Vibrant Green",
+        "Min_Order_Value": "As per availability",
+        "Odor_&_Flavour": "Crisp and Tart",
+        "Material": "Natural",
+        "Type": "Fresh"
+      },
+      "prod_about": "Discover the crisp delight of our Granny Smith Apples. Bursting with tartness and a satisfying crunch, these green gems are perfect for snacking or adding a refreshing twist to your recipes. Elevate your taste experience with the pure essence of nature's best.",
+      "prod_type": [
+        "fresh_favourite"
       ]
     }
   ],
