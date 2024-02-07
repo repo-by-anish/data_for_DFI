@@ -72,28 +72,26 @@
       ]
     },
     {
-      "prod_id": 410,
-      "prod_name": "Dragon Fruit(White)",
-      "prod_desc": "Mild and slightly sweet",
+      "prod_id": 352,
+      "prod_name": "Pomegranate",
+      "prod_desc": "Sweet and slightly tart",
       "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/404.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/556.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/687.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/800.png"
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/462.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/650.png"
       ],
       "prod_price": 100,
       "prod_size": "6kg",
       "prod_specification": {
-        "Color": "White with Speckles",
-        "Min_Order_Value": "Flexible",
-        "Odor_&_Flavour": "Mild and Subtly Sweet",
+        "Color": "Red",
+        "Min_Order_Value": "Variable",
+        "Odor_&_Flavour": "Sweet and Slightly Tart",
         "Material": "Naturally Grown",
         "Type": "Fresh"
       },
-      "prod_about": "Immerse yourself in the exotic allure of our White Dragon Fruit. With its vibrant, speckled exterior and mild, subtly sweet flavor, these fruits promise a refreshing tropical escape. Packed with vitamins and antioxidants, our White Dragon Fruit is perfect for a wholesome snack or adding an elegant touch to your culinary creations. Elevate your taste experience with the delicate beauty and unique taste of this tropical gem.",
+      "prod_about":"pomegranate, (Punica granatum), bush or small tree of the family Lythraceae and its fruit. The juicy arils of the fruit are eaten fresh, and the juice is the source of grenadine syrup, used in flavourings and liqueurs.",
       "prod_type": [
-        "tropical"
+        
       ]
     },
     {
@@ -145,10 +143,37 @@
         "fresh_favourite"
       ]
     },
+
+    {
+      "prod_id": 410,
+      "prod_name": "Dragon Fruit(White)",
+      "prod_desc": "Mild and slightly sweet",
+      "prod_img": [
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/404.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/556.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/687.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/dragon_f_white/800.png"
+      ],
+      "prod_price": 100,
+      "prod_size": "6kg",
+      "prod_specification": {
+        "Color": "White with Speckles",
+        "Min_Order_Value": "Flexible",
+        "Odor_&_Flavour": "Mild and Subtly Sweet",
+        "Material": "Naturally Grown",
+        "Type": "Fresh"
+      },
+      "prod_about": "Immerse yourself in the exotic allure of our White Dragon Fruit. With its vibrant, speckled exterior and mild, subtly sweet flavor, these fruits promise a refreshing tropical escape. Packed with vitamins and antioxidants, our White Dragon Fruit is perfect for a wholesome snack or adding an elegant touch to your culinary creations. Elevate your taste experience with the delicate beauty and unique taste of this tropical gem.",
+      "prod_type": [
+        "tropical"
+      ]
+    },
+
     {
       "prod_id": 140,
-      "prod_name": "Sweet and tropical",
-      "prod_desc": "Imported from country",
+      "prod_name": "Mango",
+      "prod_desc": "Sweet and tropical",
       "prod_img": [
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/190.png",
         "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@ed88d3f342e83803be56368e304510c278f9932c/mango/314.png",
@@ -458,29 +483,6 @@
       "prod_about": "Delight in the tart and vibrant flavor of our Cranberries. Bursting with antioxidants, these ruby-red jewels add a zesty kick to your palate. Perfect for snacking, baking, or infusing into beverages, our Cranberries offer a refreshing twist to your culinary adventures. Experience the bold tanginess and natural goodness in every bite.",
       "prod_type": [
         "berry_mix"
-      ]
-    },
-    {
-      "prod_id": 352,
-      "prod_name": "Pomegranate",
-      "prod_desc": "Sweet and slightly tart",
-      "prod_img": [
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/190.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/462.png",
-        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/pomegranate/650.png"
-      ],
-      "prod_price": 100,
-      "prod_size": "6kg",
-      "prod_specification": {
-        "Color": "Red",
-        "Min_Order_Value": "Variable",
-        "Odor_&_Flavour": "Sweet and Slightly Tart",
-        "Material": "Naturally Grown",
-        "Type": "Fresh"
-      },
-      "prod_about":"pomegranate, (Punica granatum), bush or small tree of the family Lythraceae and its fruit. The juicy arils of the fruit are eaten fresh, and the juice is the source of grenadine syrup, used in flavourings and liqueurs.",
-      "prod_type": [
-        
       ]
     },
     {
