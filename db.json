@@ -247,7 +247,10 @@
       "prod_name": "Longan",
       "prod_desc": "Sweet and floral",
       "prod_img": [
-        
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/longan/190.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/longan/503.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/longan/650.png",
+        "https://cdn.jsdelivr.net/gh/repo-by-anish/image_for_DFI@15dca0bcc519c9eac436d8701d0eb1a8a2488b17/longan/709.png"
       ],
       "prod_price": 100,
       "prod_size": "6kg",
